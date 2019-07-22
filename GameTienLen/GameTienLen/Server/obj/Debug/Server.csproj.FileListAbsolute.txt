@@ -1,0 +1,130 @@
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\source\repos\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\ASUS\source\repos\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\ASUS\source\repos\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Server\obj\Debug\Server.pdb
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\bin\Debug\Server.exe.config
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\bin\Debug\Server.exe
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\bin\Debug\Server.pdb
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.Server.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.exe
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Server\obj\Debug\Server.pdb

@@ -1,0 +1,200 @@
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\ASUS\Desktop\UIT\Lập trình mạng căn bản\Code LTMCB\Lý thuyết\Game Tiến Lên\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\tl\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game2\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\gametienlien 31-5\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game3\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game4\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game5\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\050619-0446PM\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game6\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game7\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game8\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\Backgound\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\DELL\OneDrive\Desktop\Game9\newest\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.Client.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.DanhBai.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.fLogin.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\BOT-ver2\lastversion\Ver-chót2\GameTienLen\GameTienLen\Client\obj\Debug\Client.pdb
